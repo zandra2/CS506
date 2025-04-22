@@ -1,0 +1,90 @@
+Title: Evertop: E-ink IBM XT clone with 100+ hours of battery life
+Link: https://github.com/ericjenott/Evertop 
+
+Title: Prolog Adventure Game
+Link: https://github.com/stefanrodrigues2/Prolog-Adventure-game 
+
+Title: Blog hosted on a Nintendo Wii
+Link: https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/ 
+
+Title: Show HN: Dia, an open-weights TTS model for generating realistic dialogue
+Link: https://github.com/nari-labs/dia 
+
+Title: Cheating the Reaper in Go
+Link: https://mcyoung.xyz/2025/04/21/go-arenas/ 
+
+Title: A new record for California's highest tree
+Link: https://www.sciencedaily.com/releases/2025/04/250417145019.htm 
+
+Title: Launch HN: Magic Patterns (YC W23) – AI Design and Prototyping for Product Teams
+Link: item?id=43752176 
+
+Title: Astronomers confirm the existence of a lone black hole
+Link: https://phys.org/news/2025-04-astronomers-lone-black-hole.html 
+
+Title: 101 BASIC Computer Games
+Link: https://github.com/maurymarkowitz/101-BASIC-Computer-Games 
+
+Title: Ultra-precision formation flying demonstration for space-based interferometry
+Link: https://arxiv.org/abs/2504.05001 
+
+Title: A new form of verification on Bluesky
+Link: https://bsky.social/about/blog/04-21-2025-verification 
+
+Title: A M.2 HDMI capture card
+Link: https://interfacinglinux.com/2025/04/18/magewell-eco-m-2-hdmi-capture-card/ 
+
+Title: Pipelining might be my favorite programming language feature
+Link: https://herecomesthemoon.net/2025/04/pipelining/ 
+
+Title: LLM-powered tools amplify developer capabilities rather than replacing them
+Link: https://matthewsinclair.com/blog/0178-why-llm-powered-programming-is-more-mech-suit-than-artificial-human 
+
+Title: Visiting Us
+Link: https://www.epic.com/visiting/ 
+
+Title: Show HN: Open Codex – OpenAI Codex CLI with open-source LLMs
+Link: https://github.com/codingmoh/open-codex 
+
+Title: Cekura (Formerly Vocera) (YC F24) Is Hiring
+Link: https://www.ycombinator.com/companies/cekura-2/jobs/xaoCPco-founding-engineer 
+
+Title: AI assisted search-based research works now
+Link: https://simonwillison.net/2025/Apr/21/ai-assisted-search/ 
+
+Title: An update to our pricing
+Link: https://windsurf.com/blog/pricing-v2 
+
+Title: The Labyrinth of Villa Pisani in Stra, an Intricate Pathway
+Link: https://www.finestresullarte.info/en/travel/the-labyrinth-of-villa-pisani-in-stra-suggestions-of-d-annunzio-and-an-intricate-pathway 
+
+Title: The Future of Compute: Nvidia's Crown Is Slipping
+Link: https://mohitdagarwal.substack.com/p/from-dominance-to-dilemma-nvidia 
+
+Title: FTC takes action against Uber for deceptive billing and cancellation practices
+Link: https://www.ftc.gov/news-events/news/press-releases/2025/04/ftc-takes-action-against-uber-deceptive-billing-cancellation-practices 
+
+Title: Dumb statistical models, always making people look bad
+Link: https://statmodeling.stat.columbia.edu/2025/04/18/dumb-statistical-models-always-making-people-look-bad/ 
+
+Title: Pydrofoil: Accelerating Sail-based instruction set simulators
+Link: https://arxiv.org/abs/2503.04389 
+
+Title: Getting forked by Microsoft
+Link: https://philiplaine.com/posts/getting-forked-by-microsoft/ 
+
+Title: How I use Kate editor
+Link: https://akselmo.dev/posts/how-i-use-kate-editor/ 
+
+Title: Local LLM inference – impressive but too hard to work with
+Link: https://medium.com/@aazo11/local-llm-inference-897a06cc17a2 
+
+Title: Reworking 30 lines of Linux code could cut power use by up to 30 percent
+Link: https://spectrum.ieee.org/data-center-energy-consumption 
+
+Title: Tabular Programming: A New Paradigm for Expressive Computing
+Link: https://sam.elborai.me/articles/tabular-programming/ 
+
+Title: Adding keyword parameters to Tcl procs
+Link: https://world-playground-deceit.net/blog/2025/04/adding-keyword-parameters-to-tcl-procs.html 
+
